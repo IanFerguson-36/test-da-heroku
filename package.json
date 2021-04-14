@@ -1,0 +1,23 @@
+{
+  "name": "test-da-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanFerguson-36/test-da-heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanFerguson-36/test-da-heroku/issues"
+  },
+  "homepage": "https://github.com/IanFerguson-36/test-da-heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
